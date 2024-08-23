@@ -61,11 +61,13 @@ This example demonstrates the effectiveness of Huffman Coding in reducing file s
    ```bash
    ./huffman decode compressedFile.huf outputFile.txt
 
-##Limitations
+## Limitations
+
 This implementation serves as an educational example of Huffman Coding and may not be as optimized as modern compression tools.
 The efficiency of the algorithm can vary depending on the nature of the input text files.
 
-##License
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##Contact
