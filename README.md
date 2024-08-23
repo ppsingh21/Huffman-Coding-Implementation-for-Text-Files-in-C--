@@ -70,7 +70,8 @@ The efficiency of the algorithm can vary depending on the nature of the input te
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Contact
+## Contact
+
 For any questions or suggestions, feel free to reach out:
 
 GitHub: [ppsingh21](https://github.com/ppsingh21)
