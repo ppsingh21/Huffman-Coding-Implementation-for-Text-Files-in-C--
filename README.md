@@ -50,7 +50,7 @@ This example demonstrates the effectiveness of Huffman Coding in reducing file s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/SiddharthBawane2/HuffmanCoding.git
+   git clone https://github.com/ppsingh21/HuffmanCoding.git
 2. **Compile the Code:**
    ```bash
    g++ -o huffman huffman.cpp
